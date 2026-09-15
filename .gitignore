@@ -1,0 +1,6 @@
+/target
+data/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/

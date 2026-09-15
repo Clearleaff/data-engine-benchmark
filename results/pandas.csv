@@ -1,0 +1,52 @@
+query,category,key,value,metric
+q1,total_revenue,all,218102223885.0001,total_revenue
+q2,customer,Customer#000143500,6757566.0218,revenue
+q2,customer,Customer#000095257,6294115.334,revenue
+q2,customer,Customer#000087115,6184649.5176,revenue
+q2,customer,Customer#000131113,6080943.8305,revenue
+q2,customer,Customer#000134380,6075141.9635,revenue
+q2,customer,Customer#000103834,6059770.3231999995,revenue
+q2,customer,Customer#000069682,6057779.0348,revenue
+q2,customer,Customer#000102022,6039653.6334999995,revenue
+q2,customer,Customer#000098587,6027021.5855,revenue
+q2,customer,Customer#000064660,5905659.6159,revenue
+q3,nation,FRANCE,8960205391.8314,revenue
+q3,nation,INDONESIA,8942575217.6237,revenue
+q3,nation,RUSSIA,8925318302.071,revenue
+q3,nation,MOZAMBIQUE,8892984086.0088,revenue
+q3,nation,JORDAN,8873862546.7864,revenue
+q3,nation,ROMANIA,8843003987.945,revenue
+q3,nation,CHINA,8809189670.7057,revenue
+q3,nation,CANADA,8791418888.4877,revenue
+q3,nation,VIETNAM,8770676107.5495,revenue
+q3,nation,BRAZIL,8757704375.3198,revenue
+q3,nation,UNITED STATES,8738004327.3016,revenue
+q3,nation,ALGERIA,8717014675.9961,revenue
+q3,nation,GERMANY,8691673715.9532,revenue
+q3,nation,INDIA,8687897464.5761,revenue
+q3,nation,ETHIOPIA,8684911531.8307,revenue
+q3,nation,IRAN,8678224044.8146,revenue
+q3,nation,ARGENTINA,8676014980.8927,revenue
+q3,nation,JAPAN,8647672184.4829,revenue
+q3,nation,MOROCCO,8639366583.919,revenue
+q3,nation,UNITED KINGDOM,8612500928.494999,revenue
+q3,nation,PERU,8602170056.944,revenue
+q3,nation,EGYPT,8582234483.3932,revenue
+q3,nation,KENYA,8554593973.9314995,revenue
+q3,nation,IRAQ,8550329960.8313,revenue
+q3,nation,SAUDI ARABIA,8472676397.3092,revenue
+q4,region,EUROPE,44032702326.2956,revenue
+q4,region,ASIA,43858010644.9379,revenue
+q4,region,AMERICA,43565312628.9458,revenue
+q4,region,AFRICA,43488870851.6861,revenue
+q4,region,MIDDLE EAST,43157327433.1347,revenue
+q5,supplier,Supplier#000005994,28698575.6313,revenue
+q5,supplier,Supplier#000006490,28579287.0004,revenue
+q5,supplier,Supplier#000005991,28542342.9984,revenue
+q5,supplier,Supplier#000009969,28472331.1753,revenue
+q5,supplier,Supplier#000001954,28382468.4035,revenue
+q5,supplier,Supplier#000000978,28360042.5808,revenue
+q5,supplier,Supplier#000000948,28358687.4942,revenue
+q5,supplier,Supplier#000007489,28352842.761,revenue
+q5,supplier,Supplier#000004471,28217816.8926,revenue
+q5,supplier,Supplier#000001467,28100756.4263,revenue
